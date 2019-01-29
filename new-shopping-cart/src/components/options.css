@@ -1,0 +1,43 @@
+.options{
+  margin-left: 3vw;
+  margin-right: 3vw;
+  font-family: "Roboto", sans-serif;
+}
+
+.image{
+  float: left;
+  margin-bottom: 2vh;
+  display: block;
+  width: 17vw;
+}
+
+.item{
+  vertical-align: top;
+  width: 17vw;
+  margin-left: 3vw;
+  margin-right: 3vw;
+  display: inline-block;
+  text-align: left;
+}
+
+.itemname{
+  display: block;
+  text-align: left;
+  text-transform: uppercase;
+  margin-bottom: -1.5vh;
+}
+
+.price{
+  margin-bottom: -1.5vh;
+  font-size: 10pt;
+}
+
+.sizes{
+  font-size: 10pt;
+}
+
+.cartbutton{
+  margin-left: 9vw;
+  color: black;
+  font-size: 8pt;
+}
